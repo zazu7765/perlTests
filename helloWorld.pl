@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+use Modern::Perl;
 use strict;
 use warnings;
-print "Hello World\n";
+say "Hello World";
