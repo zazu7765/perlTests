@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use feature ':5.12';
+use Modern::Perl;
 use strict;
 use warnings;
 
